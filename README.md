@@ -5,9 +5,11 @@ https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
 
 https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/Dedicated_configs.txt
 
-https://v2rayconfigextractor.mehdipost673.workers.dev
+https://forwardv2ray2.mehdipost674.workers.dev
 
-https://v2rayconfigextractor3.mehdipost673.workers.dev
+https://forwardv2ray.mehdipost674.workers.dev
+
+https://v2rayconfigextractor.mehdipost673.workers.dev
 
 
 
