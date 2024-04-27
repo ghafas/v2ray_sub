@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@141.11.189.205:8080#👉🆔 @v2ray_configs_pool 🛜 Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool 🛜 Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNODA3WUYxb1ljOURoVm9ubVRZZWNI@78.153.139.25:32147#👉🆔 @v2ray_configs_pool 🛜 Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@141.11.189.205:8080#👉🆔 @v2ray_configs_pool 🛜 Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool 🛜 Bahrain
+
